@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "first_name": "Klay",
+        "last_name": "Thompson",
+        "number": 11,
+        "position": "guard",
+        "feet": 6,
+        "inches": 6,
+        "weight": 100,
+        "birthday": "1990-02-08",
+        "current_team": "GSW"
+    },
+    {
+        "id": 2,
+        "first_name": "Stephen",
+        "last_name": "Curry",
+        "number": 30,
+        "position": "guard",
+        "feet": 6,
+        "inches": 2,
+        "weight": 84,
+        "birthday": "1988-03-14",
+        "current_team": "GSW"
+    },
+    {
+        "id": 3,
+        "first_name": "Draymond",
+        "last_name": "Green",
+        "number": 23,
+        "position": "forward",
+        "feet": 6,
+        "inches": 6,
+        "weight": 104,
+        "birthday": "1990-03-04",
+        "current_team": "GSW"
+    },
+    {
+        "id": 4,
+        "first_name": "Andrew",
+        "last_name": "Wiggins",
+        "number": 22,
+        "position": "forward",
+        "feet": 6,
+        "inches": 7,
+        "weight": 89,
+        "birthday": "1995-02-23",
+        "current_team": "GSW"
+    },
+    {
+        "id": 5,
+        "first_name": "Jordan",
+        "last_name": "Poole",
+        "number": 3,
+        "position": "guard",
+        "feet": 6,
+        "inches": 4,
+        "weight": 88,
+        "birthday": "1999-06-19",
+        "current_team": "GSW"
+    },
+    {
+        "id": 6,
+        "first_name": "Steven",
+        "last_name": "Adams",
+        "number": 4,
+        "position": "center",
+        "feet": 6,
+        "inches": 11,
+        "weight": 120,
+        "birthday": "1993-07-20",
+        "current_team": "MEM"
+    },
+    {
+        "id": 7,
+        "first_name": "Kevon",
+        "last_name": "Looney",
+        "number": 5,
+        "position": "center",
+        "feet": 6,
+        "inches": 6,
+        "weight": 101,
+        "birthday": "1996-02-06",
+        "current_team": "GSW"
+    }
+]

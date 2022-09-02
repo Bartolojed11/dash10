@@ -1,0 +1,58 @@
+[
+    {
+        "id": 18,
+        "assists": 1812,
+        "points": 13199,
+        "rebounds": 2523,
+        "games": 647,
+        "player_id": 1
+    },
+    {
+        "id": 24,
+        "assists": 5204,
+        "points": 21063,
+        "rebounds": 4295,
+        "games": 826,
+        "player_id": 2
+    },
+    {
+        "id": 28,
+        "assists": 4795,
+        "points": 5138,
+        "rebounds": 5001,
+        "games": 685,
+        "player_id": 3
+    },
+    {
+        "id": 29,
+        "assists": 1316,
+        "points": 10286,
+        "rebounds": 2691,
+        "games": 598,
+        "player_id": 4
+    },
+    {
+        "id": 30,
+        "assists": 736,
+        "points": 3404,
+        "rebounds": 626,
+        "games": 184,
+        "player_id": 5
+    },
+    {
+        "id": 31,
+        "assists": 2258,
+        "points": 4582,
+        "rebounds": 6640,
+        "games": 664,
+        "player_id": 6
+    },
+    {
+        "id": 36,
+        "assists": 734,
+        "points": 2202,
+        "rebounds": 2679,
+        "games": 367,
+        "player_id": 7
+    }
+]
